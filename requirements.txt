@@ -1,8 +1,1 @@
-faster-whisper==1.0.3
-pyannote.audio==3.3.2
-soundfile
-matplotlib
-numpy
-fastapi
-uvicorn
-vastai_sdk
+vastai-sdk>=0.3.0
